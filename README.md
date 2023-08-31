@@ -4,7 +4,7 @@
 ### 🧑🏽‍💻 About me:
 
 - 📖 Systems Analysis and Development Student.
-- 🫀 Passionate about cyber security and programming in Python.
+- 🫀 Passionate about cyber security and programming.
 - 🚀 Always improving my programming skills and new technologies.
 <br><br>
 
