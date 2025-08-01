@@ -3,8 +3,7 @@
 
 ### 🧑🏽‍💻 About me:
 
-- 📖 Systems Analysis and Development Student.
-- 🫀 Passionate about cyber security and programming.
+- 📖 Graduated in systems analysis and development.
 - 🚀 Always improving my programming skills and new technologies.
 <br><br>
 
@@ -19,25 +18,7 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RowanLima&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RowanLima&layout=compact&theme=graywhite)
 
 ----
-### My technologies:
-<br>
-<p>
-<a href="https://devdocs.io/html/">
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-</a>
-<a href="https://devdocs.io/css/">
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-</a>
-<a href="https://devdocs.io/python~3.11/">
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</a>
-<a href="https://www.kernel.org/doc/html/latest/">
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</a>
-<a href="https://code.visualstudio.com/Docs">
-<img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
-</a>
-</p>          
+
+        
